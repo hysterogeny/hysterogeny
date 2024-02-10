@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👀 I’m interested in code, hacking<br>- 🌱 I’m currently learning ... idk thinking abt it.<br>
+- 👀 I’m interested in code, hacking<br>- 🌱 I’m currently learning python<br>
 
 
 <!---
